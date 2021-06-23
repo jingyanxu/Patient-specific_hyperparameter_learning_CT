@@ -1,0 +1,2 @@
+./data/pan_0071_0000.rcn.im ./data/pan_0071_0000.prj.ny.1f.im
+./data/pan_0071_0000.rcn.im ./data/pan_0071_0000.prj.ny.1f.im
