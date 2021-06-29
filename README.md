@@ -4,7 +4,7 @@
 An example for running a pretrained model for patient-specific hyperparameter learning in the following paper:
 
 Xu, J and Noo, F. "Patient-specific hyperparameter learning for optimization-based
-CT image reconstruction." [accepted](https://doi.org/10.1088/1361-6560/ac0f9a), Physics in Medicine and Biology, 2021.
+CT image reconstruction." [accepted](https://doi.org/10.1088/1361-6560/ac0f9a), Physics in Medicine and Biology, 2021. https://doi.org/10.1088/1361-6560/ac0f9a
 
 ## Model Overview:
 
