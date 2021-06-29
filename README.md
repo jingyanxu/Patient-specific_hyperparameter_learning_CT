@@ -27,4 +27,3 @@ python ./run_test.py 0
 ```
 
 
-### <a href="https://jingyanxu.github.io"> About Me</a>
